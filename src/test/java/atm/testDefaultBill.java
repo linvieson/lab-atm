@@ -3,7 +3,7 @@ package atm;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class testDefaultBill {
+public class TestDefaultBill {
 
     @Test
     public void testGetBill(){
